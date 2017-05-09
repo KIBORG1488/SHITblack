@@ -1,0 +1,92 @@
+body{
+padding:0;
+margin:0;
+
+}
+				/*дизайн для основных юлоков*/
+#head{
+	border-bottom:3px solid silver;
+	height:100px;
+	background-color:#f4f4f4;
+	width:100%;
+	float:left;
+
+}
+
+#leftBlock{
+	margin-top:20px;
+	margin-left:10px;
+	box-sizing:border-box;
+	float:left;
+	height:25em;
+	width:20%;
+	border:0.5px solid silver;
+	border-radius: 10px
+
+}
+
+#footer{
+	margin-top:20px;
+	border-top:3px solid silver;
+	height:3em;
+    position: fixed; 
+    left: 0; bottom: 0;
+    padding: 10px; 
+    width:100%;
+    background-color:#f4f4f4;   
+    float:left;
+}
+					/*дизайн для хедера */
+#b{
+	color:red;
+	font-size:40px;
+}
+
+#bloh{
+	font-weight:700;
+	font-family: Comic Sans MS;
+	margin:10px;
+	float:left;
+}
+
+#link{
+	text-decoration:none;
+	color:black;
+}
+/*дизайн для кнопок*/
+#buttons{
+	float:right;
+	margin-right:40px;
+	border:none;
+
+}
+
+.register{
+float:right;
+margin:15px;
+width:100px;
+height:40px;
+border:none;
+border-radius:10px;
+color:f6f6f6;
+font-family:arial;
+outline:none;
+}
+ 
+.register:hover{
+float:right;
+margin:15px;
+width:100px;
+height:40px;
+border:none;
+border-radius:10px;
+color:f6f6f6;
+background-color: #FF9696 ;
+font-family:arial;
+}
+
+					/*стили для футера*/
+#copy{
+
+	
+}
