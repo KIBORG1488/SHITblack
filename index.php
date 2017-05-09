@@ -14,8 +14,8 @@
 				<h1 id="bloh"><span id="b">Н</span>овости</h1>
 			</a>
 			<div id="buttons">
-				<a href="reg.html"><input  value="вход" type="button" name="register" class="register"></a>
-				<a href="log_in.html"><input value="регистрация" type="button" name="log_in" class="register"></a>
+				<a href="reg.html"><input  value="Вход" type="button" name="register" class="register"></a>
+				<a href="log_in.html"><input value="Регистрация" type="button" name="log_in" class="register"></a>
 			</div>
 		</div>
 		<div id="wrapper">
@@ -27,7 +27,7 @@
 				</div>
 		</div>
 		<div id="footer">
-		
+			<p id="copy">все права защищены &copy; <?php  echo date("Y");?>  </p>
 		</div>
 	</body>
 </html>
